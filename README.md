@@ -1,5 +1,7 @@
 # Multi-Agent Debate System
 
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 Two LangChain agents (Pro and Con) debate a topic over N rounds. A third
 Evaluator agent scores every round on four sub-criteria as it happens. FastAPI
 orchestrates the debate and streams each round over a WebSocket the instant
@@ -232,3 +234,7 @@ pub/sub if the API were horizontally scaled across multiple processes/nodes.
 | Postgres   | 5512 |
 | Backend    | 8100 |
 | Frontend   | 5300 |
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
